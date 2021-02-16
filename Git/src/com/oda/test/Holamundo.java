@@ -6,6 +6,7 @@ public class Holamundo {
 		System.out.println("hola mundo, donde esta la cocina? xaxaxaxaxaxaxaxa");
 		System.out.println("New line.");
 		System.out.println("New line 2.");
+		System.out.println("anotha one");
 	}
 
 }
